@@ -1,0 +1,50 @@
+[
+    {
+      "precio": 1000,
+      "id": 1,
+      "title": "Salón",
+      "thumbnailUrl": "http://lagranterraza.com.mx/images/instalaciones-12.jpg"
+    },
+    {
+      "precio": 1600,
+      "id": 2,
+      "title": "Salón con Aire Acondicionado",
+      "thumbnailUrl": "https://cdn0.matrimonio.com.pe/vendor/9614/3_2/960/jpg/32372948-2111084769127795-8624862498706685952-n_11_109614.jpeg"
+    },
+    {
+      "precio": 800,
+      "id": 3,
+      "title": "Mobiliario",
+      "thumbnailUrl": "http://lagranterraza.com.mx/images/galeria/full-gallery-image-16.jpg"
+    },
+    {
+      "precio": 5000,
+      "id": 4,
+      "title": "Banquetes",
+      "thumbnailUrl": "https://cdn0.bodas.com.mx/article-vendor-o/2819/original/1280/jpg/img-1825_5_32819.jpeg"
+    },
+    {
+      "precio": 400,
+      "id": 5,
+      "title": "Meseros",
+      "thumbnailUrl": "https://cdn.milenio.com/uploads/media/2019/11/20/la-postura-de-la-mesera.jpg"
+    },
+    {
+      "precio": 1000,
+      "id": 6,
+      "title": "Cubiertos, manteleria, cristaleria",
+      "thumbnailUrl": "https://cdn0.casamientos.com.ar/article-real-wedding/747/3_2/1280/jpg/255307.webp"
+    },
+    {
+        "precio": 400,
+        "id": 7,
+        "title": "Música",
+        "thumbnailUrl": "https://estag.fimagenes.com/imagenesred/2322860_1.jpg?1"
+      },
+      {
+        "precio": 500,
+        "id": 8,
+        "title": "Pista de baile",
+        "thumbnailUrl": "https://image.jimcdn.com/app/cms/image/transf/dimension=origxorig:format=jpg/path/s9d72a545d8c8e82e/image/i31b7361dad998479/version/1441836797/image.jpg"
+      }
+  ]
